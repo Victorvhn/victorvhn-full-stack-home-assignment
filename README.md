@@ -4,7 +4,7 @@ FamilyTree is a full-stack application. It combines a .NET API with a Next.js we
 
 ## Demo
 
-Check out the live demo at [FamilyTree Demo](https://full-stack-take-home-assignment.vercel.app).
+Check out the live demo at [FamilyTree Demo](https://victorvhn-full-stack-home-assignment.vercel.app).
 
 ## Prerequisites
 
