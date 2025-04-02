@@ -1,0 +1,7 @@
+@TreeId = 0195f373-c5e5-76a2-a287-a46836ddaa72
+
+GET {{url}}/trees/{{TreeId}}/family-members/
+Accept: application/json
+X-Client-Id: {{client-id}}
+
+###
